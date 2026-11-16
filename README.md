@@ -1,4 +1,4 @@
-# Pepl Downloader
+# Peploader
 
 Лёгкое трей-приложение для Windows, чтобы быстро скачивать видео и аудио: нажал горячую клавишу,
 вставил ссылку на YouTube (или любой из 1000+ сайтов, которые поддерживает yt-dlp), выбрал формат и качество, скачал.
@@ -37,7 +37,7 @@
 
 ## Установка
 
-Скачайте установщик `Pepl.Downloader_x.y.z_x64-setup.exe` со страницы [Releases](https://github.com/nikolaidomnin/pep_videodl/releases/latest) и запустите.
+Скачайте установщик `Peploader_x.y.z_x64-setup.exe` со страницы [Releases](https://github.com/nikolaidomnin/pep_videodl/releases/latest) и запустите.
 Права администратора не нужны: приложение ставится для текущего пользователя.
 
 - Нужна Windows 10/11 x64 и WebView2 (в Windows 11 уже есть; в Windows 10 установщик докачает его сам).

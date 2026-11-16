@@ -111,7 +111,7 @@ fn setup_tray(app: &AppHandle) -> tauri::Result<()> {
     let mut builder = TrayIconBuilder::with_id("main-tray")
         .menu(&menu)
         .show_menu_on_left_click(false)
-        .tooltip("Pepl Downloader")
+        .tooltip("Peploader")
         .on_menu_event(|app, event| match event.id.as_ref() {
             "open" => show_window(app),
             "settings" => {
