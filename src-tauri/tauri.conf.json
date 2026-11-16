@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Video Downloader",
+  "productName": "Pepl Downloader",
   "version": "0.1.0",
   "identifier": "com.nikol.videodl",
   "build": {
@@ -13,7 +13,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "Video Downloader",
+        "title": "Pepl Downloader",
         "width": 688,
         "height": 160,
         "resizable": false,

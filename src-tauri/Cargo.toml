@@ -1,7 +1,7 @@
 [package]
 name = "videodl"
 version = "0.1.0"
-description = "Video Downloader: tray app for downloading video and audio via yt-dlp"
+description = "Pepl Downloader: tray app for downloading video and audio via yt-dlp"
 authors = ["nikol"]
 edition = "2024"
 
